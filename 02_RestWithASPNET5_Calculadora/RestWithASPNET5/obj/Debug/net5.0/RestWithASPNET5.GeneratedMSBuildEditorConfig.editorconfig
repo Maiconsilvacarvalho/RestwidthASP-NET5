@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = RestWithASPNET5
-build_property.ProjectDir = C:\RestWidthASP-NET5\RestwidthASP-NET5\00_RestWithASPNET5_ScaffoldViaTerminal\RestWithASPNET5\
+build_property.ProjectDir = C:\RestWidthASP-NET5\RestwidthASP-NET5\02_RestWithASPNET5_Calculadora\RestWithASPNET5\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RspNyrYe6LmbomcIz9SA73tvLxiwe/+X2EOOVCm/btYbWha8S4zFbFuLBQT3gB1Pm+2xxF7MPm+tfBfFpQsyfw==",
+  "dgSpecHash": "o3beSV0U0xk627yh3V1hyVFSU0HiMDcss7tw9rq1BL6h8zFbdmlbPPzLvI+22qIdwj8pVq77AXzObGiLsn8iXA==",
   "success": true,
-  "projectFilePath": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\00_RestWithASPNET5_ScaffoldViaTerminal\\RestWithASPNET5\\RestWithASPNET5.csproj",
+  "projectFilePath": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\02_RestWithASPNET5_Calculadora\\RestWithASPNET5\\RestWithASPNET5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

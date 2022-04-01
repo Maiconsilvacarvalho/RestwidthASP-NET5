@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\00_RestWithASPNET5_ScaffoldViaTerminal\\RestWithASPNET5\\RestWithASPNET5.csproj": {}
+    "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\02_RestWithASPNET5_Calculadora\\RestWithASPNET5\\RestWithASPNET5.csproj": {}
   },
   "projects": {
-    "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\00_RestWithASPNET5_ScaffoldViaTerminal\\RestWithASPNET5\\RestWithASPNET5.csproj": {
+    "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\02_RestWithASPNET5_Calculadora\\RestWithASPNET5\\RestWithASPNET5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\00_RestWithASPNET5_ScaffoldViaTerminal\\RestWithASPNET5\\RestWithASPNET5.csproj",
+        "projectUniqueName": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\02_RestWithASPNET5_Calculadora\\RestWithASPNET5\\RestWithASPNET5.csproj",
         "projectName": "RestWithASPNET5",
-        "projectPath": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\00_RestWithASPNET5_ScaffoldViaTerminal\\RestWithASPNET5\\RestWithASPNET5.csproj",
+        "projectPath": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\02_RestWithASPNET5_Calculadora\\RestWithASPNET5\\RestWithASPNET5.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\00_RestWithASPNET5_ScaffoldViaTerminal\\RestWithASPNET5\\obj\\",
+        "outputPath": "C:\\RestWidthASP-NET5\\RestwidthASP-NET5\\02_RestWithASPNET5_Calculadora\\RestWithASPNET5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
